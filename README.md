@@ -64,4 +64,4 @@ We may update this policy from time to time. Changes will be posted on the Exten
 
 ## Contact Us
 
-For any questions about this Privacy Policy or your data, please contact us at: sanchongsan.01@gmail.com
+For any questions about this Privacy Policy or your data, please contact us at: [sanchongsan.01@gmail.com](mailto:sanchongsan.01@gmail.com)
